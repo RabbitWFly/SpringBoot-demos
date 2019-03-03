@@ -1,23 +1,37 @@
-# Maven
-target/
-*.ser
-*.ec
+/target/
+!.mvn/wrapper/maven-wrapper.jar
 
-# IntelliJ Idea
-.idea/
-out/
-*.ipr
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
 *.iws
 *.iml
+*.ipr
+out/
+gen/
 
-# Eclipse
-.classpath
-.project
-.settings/
-.metadata/
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
 
-# OS X
+### LOGS ###
+logs/
+*.log
+
+### Mac OS ###
 .DS_Store
 
-# Disconf
-/disconf/
+### VS CODE ###
+.vscode/
