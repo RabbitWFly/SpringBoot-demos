@@ -6,10 +6,7 @@ import com.alibaba.fastjson.support.spring.FastJsonHttpMessageConverter;
 import com.rabbit.interceptor.MyInterceptor;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.converter.HttpMessageConverter;
-import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
-import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
-import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
-import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
+import org.springframework.web.servlet.config.annotation.*;
 
 import java.util.List;
 
@@ -19,7 +16,7 @@ import java.util.List;
  * Description
  **/
 @Configuration
-public class MyWebMvcConfigurerAdapter extends WebMvcConfigurerAdapter {
+public class MyWebMvcConfigurerAdapter implements WebMvcConfigurer {
 
     /**
      * 配置静态访问资源
@@ -30,8 +27,7 @@ public class MyWebMvcConfigurerAdapter extends WebMvcConfigurerAdapter {
         //自定义项目内目录
         registry.addResourceHandler("/my/**").addResourceLocations("classpath:/my/");
         //指向外部目录
-//        registry.addResourceHandler("/my/**").addResourceLocations("file:E:/my/");
-        super.addResourceHandlers(registry);
+//        registry.addResourceHandler("/my/**").addResourceLocations("file:E:/my/")
     }
 
     /**
@@ -54,8 +50,7 @@ public class MyWebMvcConfigurerAdapter extends WebMvcConfigurerAdapter {
     public void addInterceptors(InterceptorRegistry registry) {
         // addPathPatterns 用于添加拦截规则
         // excludePathPatterns 用户排除拦截
-        registry.addInterceptor(new MyInterceptor()).addPathPatterns("/**").excludePathPatterns("/toLogin","/login");
-        super.addInterceptors(registry);
+        registry.addInterceptor(new MyInterceptor()).addPathPatterns("/**").excludePathPatterns("/toLogin","/login", "/assets/**","/js/**");
     }
 
 
@@ -70,7 +65,6 @@ public class MyWebMvcConfigurerAdapter extends WebMvcConfigurerAdapter {
         fastJsonConfig.setSerializerFeatures(SerializerFeature.PrettyFormat);
         fastConverter.setFastJsonConfig(fastJsonConfig);
         converters.add(fastConverter);
-        super.configureMessageConverters(converters);
     }
 }
 
