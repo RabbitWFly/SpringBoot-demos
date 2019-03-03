@@ -6,13 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-mybatis" />
         <module name="spring-boot-mybatis-mapper" />
+        <module name="springboot-template-thymeleaf" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demotest" target="1.8" />
       <module name="spring-boot-demos" target="1.8" />
+      <module name="spring-boot-mybatis" target="1.8" />
       <module name="spring-boot-mybatis-mapper" target="1.8" />
+      <module name="springboot-template-thymeleaf" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

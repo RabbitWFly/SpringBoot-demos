@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demos.iml" filepath="$PROJECT_DIR$/spring-boot-demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/spring-boot-mybatis.iml" filepath="$PROJECT_DIR$/springboot-mybatis/spring-boot-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/spring-boot-mybatis-mapper.iml" filepath="$PROJECT_DIR$/springboot-mybatis/spring-boot-mybatis-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-template-thymeleaf/springboot-template-thymeleaf.iml" filepath="$PROJECT_DIR$/springboot-template-thymeleaf/springboot-template-thymeleaf.iml" />
     </modules>
   </component>
 </project>
