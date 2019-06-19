@@ -6,12 +6,20 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="8118890c-8489-40ce-a295-b763b395848c" name="Default" comment="" />
+    <list default="true" readonly="true" id="8118890c-8489-40ce-a295-b763b395848c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/springboot-mybatis/target/" />
     <ignored path="$PROJECT_DIR$/demotest/target/" />
     <ignored path="$PROJECT_DIR$/springboot-template-freemarker/target/" />
     <ignored path="$PROJECT_DIR$/chapter2/target/" />
+    <ignored path="$PROJECT_DIR$/chapter3/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,93 +32,98 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter2/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+            <state relative-caret-position="416">
+              <caret line="16" column="46" selection-end-line="58" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyProperties1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/com/rabbitwfly/properties/MyProperties1.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter3/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="378">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThymeleafController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/com/rabbitwfly/controller/ThymeleafController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#839#840#0" expanded="true" />
+                <element signature="e#873#874#0" expanded="true" />
+                <element signature="e#912#913#0" expanded="true" />
+                <element signature="e#950#951#0" expanded="true" />
+                <element signature="e#985#986#0" expanded="true" />
+                <element signature="e#1020#1021#0" expanded="true" />
+                <element signature="e#1064#1065#0" expanded="true" />
+                <element signature="e#1104#1105#0" expanded="true" />
+                <element signature="e#1140#1141#0" expanded="true" />
+                <element signature="e#1176#1177#0" expanded="true" />
+                <element signature="e#1222#1223#0" expanded="true" />
+                <element signature="e#1264#1265#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter3/src/main/resources/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chapter3Application.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/com/rabbitwfly/Chapter3Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hello.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter3/src/main/resources/static/js/hello.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter2/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyProperties2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/com/rabbitwfly/properties/MyProperties2.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#561#562#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-                <element signature="e#697#698#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="260">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my2.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/src/main/resources/my2.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PropertiesController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/com/rabbitwfly/controller/PropertiesController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1040#1053#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application-dev.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/src/main/resources/application-dev.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application-test.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/src/main/resources/application-test.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="21" lean-forward="true" selection-end-column="33" />
+      <file leaf-file-name="HELP.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter2/HELP.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="182">
+                <caret line="7" selection-start-line="7" selection-end-line="7" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -120,15 +133,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="20" selection-start-column="20" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chapter2Application.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/com/rabbitwfly/Chapter2Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -172,6 +176,10 @@
         <option value="$PROJECT_DIR$/chapter2/src/main/resources/application-test.properties" />
         <option value="$PROJECT_DIR$/chapter2/src/main/resources/application-prod.properties" />
         <option value="$PROJECT_DIR$/chapter2/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/chapter3/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/src/main/java/com/rabbitwfly/controller/ThymeleafController.java" />
+        <option value="$PROJECT_DIR$/chapter3/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/chapter3/src/main/resources/static/js/hello.js" />
       </list>
     </option>
   </component>
@@ -234,20 +242,25 @@
             <path>
               <item name="springBoot-demos" type="b2602c69:ProjectViewProjectNode" />
               <item name="springBoot-demos" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot-demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot-demos" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springBoot-demos" type="b2602c69:ProjectViewProjectNode" />
               <item name="springBoot-demos" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springBoot-demos" type="b2602c69:ProjectViewProjectNode" />
               <item name="springBoot-demos" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -255,7 +268,7 @@
             <path>
               <item name="springBoot-demos" type="b2602c69:ProjectViewProjectNode" />
               <item name="springBoot-demos" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -264,7 +277,7 @@
             <path>
               <item name="springBoot-demos" type="b2602c69:ProjectViewProjectNode" />
               <item name="springBoot-demos" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -274,20 +287,35 @@
             <path>
               <item name="springBoot-demos" type="b2602c69:ProjectViewProjectNode" />
               <item name="springBoot-demos" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitwfly" type="462c0819:PsiDirectoryNode" />
-              <item name="properties" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springBoot-demos" type="b2602c69:ProjectViewProjectNode" />
               <item name="springBoot-demos" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot-demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot-demos" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot-demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot-demos" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -314,6 +342,9 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter3/src/main/resources/static" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/springboot-mybatis" />
     </key>
@@ -330,7 +361,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Chapter2Application">
+  <component name="RunManager" selected="Spring Boot.Chapter3Application">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -356,6 +387,10 @@
     <configuration name="Chapter2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="chapter2" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.rabbitwfly.Chapter2Application" />
+    </configuration>
+    <configuration name="Chapter3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rabbitwfly.Chapter3Application" />
     </configuration>
     <configuration name="DemotestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="demotest" />
@@ -391,6 +426,7 @@
       <item itemvalue="Spring Boot.MybatisApplication" />
       <item itemvalue="Spring Boot.DemotestApplication" />
       <item itemvalue="Spring Boot.Chapter2Application" />
+      <item itemvalue="Spring Boot.Chapter3Application" />
     </list>
   </component>
   <component name="SvnConfiguration" cleanupOnStartRun="true">
@@ -409,15 +445,16 @@
       <workItem from="1551188342654" duration="13000" />
       <workItem from="1551188389398" duration="2865000" />
       <workItem from="1560858790875" duration="26000" />
-      <workItem from="1560858820041" duration="3217000" />
+      <workItem from="1560858820041" duration="5212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12758000" />
+    <option name="totallyTimeSpent" value="14753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-172" y="-1058" width="1920" height="1058" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Gerrit" order="7" />
@@ -437,11 +474,11 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30549452" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45274726" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32857144" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26043957" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22126746" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26043957" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30558538" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -461,44 +498,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/rabbit/config/MyWebMvcConfigurerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1222">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/rabbit/config/DruidConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/rabbit/MybatisApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="13" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.18/lombok-1.16.18.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot-template-thymeleaf/src/main/java/com/rabbit/springboottemplatethymeleaf/model/User.java" />
     <entry file="file://$PROJECT_DIR$/springboot-template-thymeleaf/src/main/java/com/rabbit/springboottemplatethymeleaf/SpringbootTemplateThymeleafApplication.java" />
     <entry file="file://$PROJECT_DIR$/springboot-template-thymeleaf/src/main/resources/templates/page/index.html" />
@@ -509,13 +508,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot-template-thymeleaf/src/main/java/com/rabbit/springboottemplatethymeleaf/controller/UserController.java" />
     <entry file="file://$PROJECT_DIR$/springboot-template-thymeleaf/src/main/java/com/rabbit/springboottemplatethymeleaf/controller/IndexController.java" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot-template-thymeleaf/.gitignore" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -612,13 +604,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/com/rabbitwfly/Chapter2Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -629,7 +614,7 @@
     <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/com/rabbitwfly/properties/MyProperties2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#340#341#0" expanded="true" />
@@ -651,7 +636,7 @@
     <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/com/rabbitwfly/properties/MyProperties1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -661,14 +646,14 @@
     <entry file="file://$PROJECT_DIR$/chapter2/src/main/resources/my2.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/com/rabbitwfly/controller/PropertiesController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="458">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1040#1053#1" expanded="true" />
@@ -679,14 +664,14 @@
     <entry file="file://$PROJECT_DIR$/chapter2/src/main/resources/application-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/src/main/resources/application-test.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="21" lean-forward="true" selection-end-column="33" />
+          <caret column="21" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -700,7 +685,81 @@
     <entry file="file://$PROJECT_DIR$/chapter2/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="182">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="46" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/com/rabbitwfly/controller/ThymeleafController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#873#874#0" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
+            <element signature="e#1104#1105#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+            <element signature="e#1222#1223#0" expanded="true" />
+            <element signature="e#1264#1265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/main/resources/static/js/hello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/com/rabbitwfly/Chapter3Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
