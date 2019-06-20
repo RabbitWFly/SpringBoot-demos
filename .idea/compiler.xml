@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="chapter2" />
         <module name="chapter3" />
+        <module name="chapter4" />
         <module name="spring-boot-mybatis-mapper" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chapter2" target="1.8" />
       <module name="chapter3" target="1.8" />
+      <module name="chapter4" target="1.8" />
       <module name="demotest" target="1.8" />
       <module name="spring-boot-demos" target="1.8" />
       <module name="spring-boot-mybatis-mapper" target="1.8" />
