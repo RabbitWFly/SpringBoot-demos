@@ -30,6 +30,7 @@
         <module name="chapter8" />
         <module name="chapter9" />
         <module name="spring-boot-mybatis-mapper" />
+        <module name="verification" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -59,6 +60,7 @@
       <module name="demotest" target="1.8" />
       <module name="spring-boot-demos" target="1.8" />
       <module name="spring-boot-mybatis-mapper" target="1.8" />
+      <module name="verification" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
