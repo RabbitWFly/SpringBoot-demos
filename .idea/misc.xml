@@ -1,37 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/springboot-mybatis" />
-  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter2/pom.xml" />
         <option value="$PROJECT_DIR$/chapter3/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter4/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter5/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter6/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter7/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter8/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter9/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter11/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter12/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter13/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter14/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter15/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter16/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter17/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter18/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter19/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter20/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter21/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter22/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter23/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter27/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter28/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq/rabbit-demo/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
 </project>
